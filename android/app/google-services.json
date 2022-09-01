@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001313388650",
+    "project_id": "flutter-demo-175da",
+    "storage_bucket": "flutter-demo-175da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001313388650:android:a4bcc2d54fb315840ca213",
+        "android_client_info": {
+          "package_name": "com.turqosoft.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001313388650-6ksjlusud968nhonpl35mp1otlriklvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVlx99sYsRC_zaWfZYADeOgpIYMCtc75g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001313388650-6ksjlusud968nhonpl35mp1otlriklvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
